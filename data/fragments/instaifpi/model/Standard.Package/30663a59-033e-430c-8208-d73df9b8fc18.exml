@@ -25,10 +25,17 @@
         <COMPID name="Apagar Comentário" mc="Standard.UseCase" uid="a6d0e36e-ffda-498d-9bd6-f9437063dcf4"/>
         <COMPID name="Editar Comentário" mc="Standard.UseCase" uid="d1ec55aa-55a0-48de-94df-183d1cbfec53"/>
         <COMPID name="Curtir Comentário" mc="Standard.UseCase" uid="f1b29c0d-69b1-4f05-be34-bf153300ae33"/>
+        <COMPID name="Publicar Vídeo na Story" mc="Standard.UseCase" uid="7eb7b623-1642-40e3-8515-a2931c41b232"/>
+        <COMPID name="Publicar Bumerangue" mc="Standard.UseCase" uid="427d6952-f2e5-469b-a2c6-ae6a7e51b26f"/>
+        <COMPID name="Publicar Texto na Story" mc="Standard.UseCase" uid="0e0fdc61-6982-4b2d-81ce-26c5837ec5ac"/>
+        <COMPID name="Publicar Foto na Story" mc="Standard.UseCase" uid="685d2694-67d7-4e19-a1f6-db68ad08ab86"/>
+        <COMPID name="Spotify" mc="Standard.Actor" uid="e774857d-b7a3-4d9c-888f-28785324e91c"/>
+        <COMPID name="Compartilhar Story com Facebook" mc="Standard.UseCase" uid="719aa07b-caa0-43ff-a826-b30e2a6fec68"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="Fotos" mc="Standard.UseCaseDiagram" uid="e6a3dfba-59d9-4feb-9087-6ca4788c044b"/>
         <COMPID name="Comentários" mc="Standard.UseCaseDiagram" uid="d6364a44-a0c8-4efa-b9c6-513677032447"/>
+        <COMPID name="Stories" mc="Standard.UseCaseDiagram" uid="74e3de7f-5a1a-4f8b-95e0-8fd479d66e01"/>
       </COMP>
       <COMP relation="Descriptor">
         <OBJECT>
